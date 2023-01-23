@@ -1,0 +1,5 @@
+Labs Physics  Music Room  BookStore 1  BookStore 2  Ladies' Mosque  RA1  RA2  RA3
+RB1  RB2  RB3  RB4  RB5  RB6  Theatre  Gymnasium  Ping-Pong
+RC1  RC2  RC3  RC4  RC5  RC6  RC7
+RD1  RD2  RD3  RD4  RD5  RD6  RD7
+RE1  RE2  RE3  RE4  RE5  RE6  RE7  RE8  RE9
